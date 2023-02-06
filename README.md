@@ -1,2 +1,2 @@
-# CIND830
-TMU CIND830 Assignments
+# CIND830 - Python Programming for Data Science
+TMU CIND830 Assignments W2022
